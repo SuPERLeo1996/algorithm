@@ -1,4 +1,4 @@
-package org.leo.algorithm;
+package org.leo.algorithm.leetcode;
 
 import java.util.Deque;
 import java.util.LinkedList;

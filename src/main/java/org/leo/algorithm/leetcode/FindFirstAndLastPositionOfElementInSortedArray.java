@@ -1,4 +1,4 @@
-package org.leo.algorithm;
+package org.leo.algorithm.leetcode;
 
 /**
  * @ClassName FindFirstAndLastPositionOfElementInSortedArray.java

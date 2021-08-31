@@ -1,4 +1,4 @@
-package org.leo.algorithm;
+package org.leo.algorithm.leetcode;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
