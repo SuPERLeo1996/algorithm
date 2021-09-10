@@ -13,8 +13,8 @@ public class Offer63 {
         for (int i = 0; i < prices.length; i++) {
             if (minPrice > prices[i]) {
                 minPrice = prices[i];
-            } else if (prices[i] - prices[i - 1] > maxProfit){
-                maxProfit = prices[i] - prices[i - 1];
+            } else if (prices[i] - minPrice > maxProfit){
+                maxProfit = prices[i] - minPrice;
             }
         }
         return maxProfit;
